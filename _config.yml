@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: jpdeleon
+title: gestalt
 
 # Short description of your site
 description: TBA
@@ -11,10 +11,10 @@ description: TBA
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://jpdeleon.github.io"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -24,7 +24,7 @@ navbar-links:
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
-  #Author's home: "http://deanattali.com"
+  nav-search: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,7 +73,7 @@ social-network-links:
   github: jpdeleon
   twitter: edxplore
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: jpdeleonbsap
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -162,7 +162,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Japan/Tokyo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
