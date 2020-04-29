@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: gestalt
+title: home
 
 # Short description of your site
 description: TBA
@@ -119,7 +119,7 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "https-jpdeleon-github-io"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
