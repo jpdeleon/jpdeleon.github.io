@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+*.ipynb_checkpoints/
 
 # general
 .DS_Store
