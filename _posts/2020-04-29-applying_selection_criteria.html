@@ -9142,15 +9142,15 @@ label {
 }
 /* Flexible box model classes */
 /* Taken from Alex Russell http://infrequently.org/2009/08/css-3-progress/ */
-/* This file is a compatability layer.  It allows the usage of flexible box 
+/* This file is a compatability layer.  It allows the usage of flexible box
 model layouts accross multiple browsers, including older browsers.  The newest,
 universal implementation of the flexible box model is used when available (see
-`Modern browsers` comments below).  Browsers that are known to implement this 
+`Modern browsers` comments below).  Browsers that are known to implement this
 new spec completely include:
 
     Firefox 28.0+
     Chrome 29.0+
-    Internet Explorer 11+ 
+    Internet Explorer 11+
     Opera 17.0+
 
 Browsers not listed, including Safari, are supported via the styling under the
@@ -12532,7 +12532,7 @@ div#pager .ui-resizable-handle {
   background: #f7f7f7;
   border-top: 1px solid #cfcfcf;
   border-bottom: 1px solid #cfcfcf;
-  /* This injects handle bars (a short, wide = symbol) for 
+  /* This injects handle bars (a short, wide = symbol) for
         the resize handle. */
 }
 div#pager .ui-resizable-handle::after {
@@ -13059,14 +13059,14 @@ div#notebook {
   div.cell {
     display: block;
     page-break-inside: avoid;
-  } 
-  div.output_wrapper { 
-    display: block;
-    page-break-inside: avoid; 
   }
-  div.output { 
+  div.output_wrapper {
     display: block;
-    page-break-inside: avoid; 
+    page-break-inside: avoid;
+  }
+  div.output {
+    display: block;
+    page-break-inside: avoid;
   }
 }
 </style>
@@ -13132,7 +13132,7 @@ div#notebook {
 <span class="kn">from</span> <span class="nn">astropy.visualization</span> <span class="kn">import</span> <span class="n">hist</span>
 <span class="kn">import</span> <span class="nn">warnings</span>
 
-<span class="n">warnings</span><span class="o">.</span><span class="n">simplefilter</span><span class="p">(</span><span class="s2">&quot;ignore&quot;</span><span class="p">)</span>    
+<span class="n">warnings</span><span class="o">.</span><span class="n">simplefilter</span><span class="p">(</span><span class="s2">&quot;ignore&quot;</span><span class="p">)</span>
 <span class="n">pl</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">&#39;fivethirtyeight&#39;</span><span class="p">)</span>
 </pre></div>
 
@@ -13385,7 +13385,7 @@ div#notebook {
 <div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">xdist</span> <span class="o">=</span> <span class="n">norm</span><span class="o">.</span><span class="n">rvs</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="n">nsamples</span><span class="p">)</span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">xdist</span> <span class="o">=</span> <span class="n">norm</span><span class="o">.</span><span class="n">rvs</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="n">nsamples</span><span class="p">)</span>
 
 <span class="c1"># plot histogram</span>
 <span class="n">n</span><span class="p">,</span> <span class="n">bins</span><span class="p">,</span> <span class="n">_</span> <span class="o">=</span> <span class="n">hist</span><span class="p">(</span><span class="n">xdist</span><span class="p">,</span> <span class="n">bins</span><span class="o">=</span><span class="n">bin_method</span><span class="p">,</span> <span class="n">density</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">cumulative</span><span class="o">=</span><span class="kc">True</span><span class="p">);</span>
@@ -13808,7 +13808,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Taking into account measurement uncertainties is important during sample selection. This gives flexibility to accept or reject samples near the limits that would otherwise be ignored when naively implementing inequalities. This is especially crucial when there is a gray area near the limits or the choice of threshold is arbitrary. In the real world, this could mean losing a potential discovery or increasing false positives scenarios. Finally, vectorized boolean logic is very powerful and the fact that implementing this very easily in <code>scipy</code>is a amazing.</p>
+<p>Taking into account measurement uncertainties is important during sample selection. This gives flexibility to accept or reject samples near the limits that would otherwise be ignored when naively implementing inequalities. This is especially crucial when there is a gray area near the limits or the choice of threshold is arbitrary. In the real world, this could mean losing a potential discovery or increasing false positives scenarios. Finally, vectorized boolean logic is very powerful and the fact that implementing this very easily in <code>scipy</code>is amazing.</p>
 
 </div>
 </div>
@@ -13825,7 +13825,7 @@ div#notebook {
   </div>
 </body>
 
- 
+
 
 
 </html>
