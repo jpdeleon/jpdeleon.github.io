@@ -14,7 +14,7 @@ css: /css/jupyter.css
 
 # Mining craiglist
 
-I thought about scraping data from craigslist. So just for fun, I created [craigslist-cli](github.com/jpdeleon/craigslist-cli).
+I thought about scraping data from craigslist. So just for fun, I wrote [craigslist-cli](https://github.com/jpdeleon/craigslist).
 This library includes a set of convenience scripts that scrapes relevant information in various craigslist websites.
 
 For example, you can get a summary of posts about gigs, jobs, etc. in a specific location on your terminal:
