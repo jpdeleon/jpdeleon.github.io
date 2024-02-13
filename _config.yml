@@ -21,7 +21,8 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   about me: "aboutme"
-  travels : "travels"
+  research: "research"
+  teaching : "teaching"
   search: "search"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

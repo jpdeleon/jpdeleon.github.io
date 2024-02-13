@@ -7,30 +7,38 @@ use-site-title: true
 
 <div class="posts-list">
   {% for post in paginator.posts %}
+  <!-- Post preview section -->
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
+	  <!-- Post title -->
 	  <h2 class="post-title">{{ post.title }}</h2>
 
 	  {% if post.subtitle %}
+	  <!-- Post subtitle -->
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
 	  </h3>
 	  {% endif %}
     </a>
 
+    <!-- Post meta information -->
     <p class="post-meta">
       Posted on {{ post.date | date: site.date_format }}
     </p>
 
+    <!-- Post entry container -->
     <div class="post-entry-container">
       {% if post.image %}
+      <!-- Post image if available -->
       <div class="post-image">
         <a href="{{ post.url | relative_url }}">
           <img src="{{ post.image | relative_url }}">
         </a>
       </div>
       {% endif %}
+      <!-- Post entry content -->
       <div class="post-entry">
+        <!-- Displaying post excerpt with Read More link if needed -->
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
@@ -40,6 +48,7 @@ use-site-title: true
     </div>
 
     {% if post.tags.size > 0 %}
+    <!-- Displaying post tags if available -->
     <div class="blog-tags">
       Tags:
       {% if site.link-tags %}
@@ -56,14 +65,17 @@ use-site-title: true
   {% endfor %}
 </div>
 
+<!-- Pagination section if there are multiple pages -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
+  <!-- Link to newer posts if available -->
   <li class="previous">
     <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
+  <!-- Link to older posts if available -->
   <li class="next">
     <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
   </li>

@@ -8,33 +8,28 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a full-time graduate student. Previously worked as an intern and research assistant at UTokyo, and full-time research development assistant at Regulus SpaceTech, Inc.
+Currently a postdoctoral researcher at The University of Tokyo.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my MSc in Astronomy@UTokyo (supervised by
+Obtained my Ph.D. in Astronomy@UTokyo (supervised by
 <a href="https://www.s.u-tokyo.ac.jp/en/people/tamura_motohide/" target="_blank">Prof. Motohide Tamura</a>).
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I enjoy writing open source tools for science hosted at <a href="https://github.com/jpdeleon">github</a>.
+I enjoy writing open source tools for research and teaching, such as <a href="https://github.com/jpdeleon/quicklook">quicklook</a>.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I'm a huge basketball fan
-</p>
-
-<p class="about-text">
-<span class="fa fa-file-text-o about-icon"></span>
-Some of my work is highlighted in the <a href="/projects">projects</a> page, but you can also view my <a href="/resume">resume</a>.
+I like basketball, cooking, camping, and woodworking.
 </p>
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-I came from <i>Philippines</i> where I did my B.Sc. in A. Physics, then did a research internship in Taiwan, before moving to Tokyo for my graduate studies since 2015. I write about some of my adventures in <a href="/travels">travel</a> page.
+You can also view my <a href="https://github.com/jpdeleon/cv">CV</a>.
 </p>
 
 </div>

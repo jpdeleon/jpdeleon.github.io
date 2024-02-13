@@ -1,3 +1,3 @@
 # personal website
 
-@ https://jpdeleon.github.io/
+Check it out @ https://jpdeleon.github.io
