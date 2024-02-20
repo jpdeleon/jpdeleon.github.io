@@ -105,7 +105,8 @@ The whole is greater than the sum of its parts
     * [review: Seeing Cosmology](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125526)
 
 References
-* [Numerical Python in A&A, Springer ]()
+* [article: Astronomical reach of fundamental physics](https://www.pnas.org/doi/10.1073/pnas.1318003111)
+* [book: Numerical Python in A&A, Springer ]()
 * [Jason Kendall's Intro to astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
 * [animations](https://zingale.github.io/astro_animations/)
 
