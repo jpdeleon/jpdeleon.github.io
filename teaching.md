@@ -9,6 +9,7 @@ carbonads: false
 ### Introduction to Astronomy
 
 * **Overview: Historical Importance and Present-day Relevance**
+
 * **Thought Experiment: Using Astronomy Knowledge to Survive on a Deserted Island**
   * Celestial Navigation
   * Timekeeping
@@ -85,23 +86,23 @@ carbonads: false
     * [review: The study of living universe, 2005](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.43.051804.102202)
     * [review: Evolution of a habitable planet, 2003](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.41.071601.170049)
 * **Supernovae, Black Holes, Neutron Stars, White Dwarfs, Pulsars, Magnetars, AGNs, GRBs, FRBs, and Gravitational Waves**
-    * [review: Most luminous supernovae](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081817-051819)
-    * [review: Coevolution of galaxies and supermassive black holes](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081913-035722)
-    * [review: Masses, radii, and the equation of state of neutron stars](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081915-023322)
-    * [review: Neutron star merger](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-112420-030742)
-    * [review: Cool white dwarfs, 2003](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.41.081401.155117)
-    * [review: Unified model of Active Galactic Nuclei](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082214-122302)
-    * [review: Fast Radio Burts: extragalactic enigma](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-091918-104501)
-    * [review: Gamma-Ray Burts afterglows, 2000](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.38.1.379)
-    * [review: Mergers and gravitational waves](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081913-040031)
+  * [review: Most luminous supernovae](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081817-051819)
+  * [review: Coevolution of galaxies and supermassive black holes](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081913-035722)
+  * [review: Masses, radii, and the equation of state of neutron stars](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081915-023322)
+  * [review: Neutron star merger](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-112420-030742)
+  * [review: Cool white dwarfs, 2003](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.41.081401.155117)
+  * [review: Unified model of Active Galactic Nuclei](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082214-122302)
+  * [review: Fast Radio Burts: extragalactic enigma](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-091918-104501)
+  * [review: Gamma-Ray Burts afterglows, 2000](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.38.1.379)
+  * [review: Mergers and gravitational waves](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081913-040031)
 * **Milky Way**
 * **Galaxy: Structure, Formation, and Evolution**
-    * [Simulations using galpy](https://www.galpy.org)
-    * [review: The first galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081710-102608)
-    * [revew: Spirals in galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-052920-104505)
-    * [review: Theoretical challenges in galaxy formation](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081913-040019)
-    * [review: Galaxies in the first billion years after the big bang](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081915-023417)
-    * [review: Strong lensing by galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081309-130924)
+  * [Simulations using galpy](https://www.galpy.org)
+  * [review: The first galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081710-102608)
+  * [revew: Spirals in galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-052920-104505)
+  * [review: Theoretical challenges in galaxy formation](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081913-040019)
+  * [review: Galaxies in the first billion years after the big bang](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081915-023417)
+  * [review: Strong lensing by galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081309-130924)
 * **Cosmology**
   * Structure: Flat, Curved, Open, or Closed?
   * Composition: Matter, Dark Matter, Dark Energy
@@ -114,18 +115,18 @@ carbonads: false
     * [review: Seeing Cosmology](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125526)
 
 References
-* [Numerical Python in A&A, Springer ]()
-* [Jason Kendall's Intro to astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
-* [animations](https://zingale.github.io/astro_animations/)
 
+* [lecture series: Cosmic origins of elements](https://www.youtube.com/playlist?list=PLUl4u3cNGP62In5JXH39ct5JtXja3VGJJ)
+* [Jason Kendall's Intro to Astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
+* [animations](https://zingale.github.io/astro_animations/)
 
 ### Astronomical Observation and Data Analysis
 
 * **Atmospheric Windows: In which wavelengths best to observe what target?**
   * Blackbody Radiation
   * Earth's Atmosphere
-* **Science Goals: What and Why to Observe**
-* **Planning: How to Observe the Target**
+* **Science Goals: What and Why to observe**
+* **Planning: How to observe the target**
   * Ground-based and Space-based Observations
   * Observing Constraints
     * Where is it? Coordinates
@@ -182,42 +183,41 @@ References
 * **Spectroscopy** using specutils
   * Cross-correlation
 * **RV Modeling**
- * Basic Model
- * Parameterization
+  * Basic Model
+  * Parameterization
 * **Joint RV+Transit Modeling**
 
 References
+
+* [lab demo: Optics](https://www.youtube.com/playlist?list=PL4E7FAAD67B171EBC)
+* [lecture series: Astronomical Techniques by Chris Mihos](http://burro.case.edu/Academics/Astr306/)
 * [database: NASA exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/)
 * [book: Experimental astrophysics](https://iopscience.iop.org/book/mono/978-0-7503-3119-7.pdf)
-* [review: Reference frames in astronomy, 1999](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.37.1.97)
+* [review: Reference frames in Astronomy, 1999](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.37.1.97)
 * [Astropy's CCD guide](https://www.astropy.org/ccd-reduction-and-photometry-guide/v/dev/notebooks/00-00-Preface.html)
 * [Jason Kendall's course](https://youtube.com/playlist?list=PLyu4Fovbph6cKjOO7vj97V7J6_2PA2FY-&si=DHze01nTDk-rMfHU)
 * [Growth Astronomy School](https://www.youtube.com/playlist?list=PLuTcC-SLS5wofH1ET2ThCR4gsbHpJ-D_c)
 * [review: Standard photometric systems](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.41.082801.100251)
 * [review: Digital image reconstruction](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.43.112904.104850)
+* [book: Numerical Python in A&A, Springer](https://www.google.co.jp/books/edition/Numerical_Python_in_Astronomy_and_Astrop/D4k4EAAAQBAJ?hl)
+* [lecture series: Introduction to Computer Science & Programming with Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) 
 
 ### Algorithms: Fast, Numerically Stable, Closed-form Solutions
 
 * **Python Basics**
 * **Version Control with Git and GitHub**
-* **Re-usable Code**
-* **Numba, JIT**
-* **List Comprehension vs For-loops**
-
-
-### Statistics
-
-* **AstroML**
-  * Probability Distributions
+* **Reproducible research with [`showyourwork`](https://show-your.work/en/latest/)**
+* **Probability Distributions**
+  * [book: astroML](https://www.astroml.org/astroML-notebooks/chapter3/astroml_chapter3_Descriptive_Statistics.html)
 * **Sympy: Analytic**
-* **Bayesian vs Frequentist**
+* **Bayesian vs Frequentist Statistics**
 * **Fitting Models to Data**
   * Linear Algebra
   * Maximum Likelihood
 * **Optimization**
   * Gradient-free, scipy.optimize.solve
   * Autodiff using [jax](https://jax.exoplanet.codes/en/latest/tutorials/autodiff/)
-* **Monte Carlo**
+* **Monte Carlo Methods**
   * Propagation of Uncertainties
 * **Sampling**
   * MCMC
@@ -237,29 +237,26 @@ References
 * **Machine Learning**
 
 References
-* [astrostatistics](https://github.com/dgerosa/astrostatistics_bicocca_2024)
-* [review: MCMC methods for Bayesian data analysis in astronomy](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082214-122339)  
 
+* [lecture series: Statistics & Machine Learning in Astronomy](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5)
+* [lecture series: Fundamentals of statistics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP)
+* [lecture series: Introduction to probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+* [lecture notes: Astrostatistics](https://github.com/dgerosa/astrostatistics_bicocca_2024)
+* [review: MCMC methods for Bayesian data analysis in Astronomy](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082214-122339)  
+* [lecture series: Metaprogramming](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+* [lecture series: Mathematical methods](https://www.youtube.com/playlist?list=PL4KQU9aLBWgIKYhsebzc-OorDCj_islzp)
 
-### Miscellaneous
+### Miscellaneous readings
 
-* **Personal Website**
-* **CV**
-* **Reproducible Work Using Show-Your-Work**
-* Readings
- - [What made Apollo a success by George Low](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
-
+* [Astronomical reach of fundamental physics by Burrows & Ostriker](https://www.pnas.org/doi/full/10.1073/pnas.1318003111)
+* [What made Apollo a success by George Low](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
 
 ## General references
 
-* [Mitch Richmond's lectures](http://spiff.rit.edu/classes/)
-* [Richard Wolfson](https://www.youtube.com/playlist?list=PLjBulz4rXhBqVCbXn1_kmctiJ_WM-fjcP)
+* [lecture notes by Mitch Richmond](http://spiff.rit.edu/classes/)
+* [lecture series by Richard Wolfson](https://www.youtube.com/playlist?list=PLjBulz4rXhBqVCbXn1_kmctiJ_WM-fjcP)
 * [Science Talks @ Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS4PYU_a49xcnKG_BRoKrXRf)
 * [Annual review of A&A](https://www.annualreviews.org/journal/astro)
 * [Publications of the Astronomical Society of the Pacific](https://iopscience.iop.org/journal/1538-3873)
 * [review: Best practices in Astronomy education](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-032620-021943)
 * [book: Astronomy education](https://iopscience.iop.org/book/edit/978-0-7503-1719-1)
-
-## Notes
-* data-driven, experimental approach
-* what physical laws of nature can we learn from data
