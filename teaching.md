@@ -241,6 +241,7 @@ References
 * [lecture series: Statistics & Machine Learning in Astronomy](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5)
 * [lecture series: Fundamentals of statistics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP)
 * [lecture series: Introduction to probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+* [lecture series: Stochastic processes](https://www.youtube.com/playlist?list=PLbMVogVj5nJQo8D9D-D6lMqh4FJbPeE_f)
 * [lecture notes: Astrostatistics](https://github.com/dgerosa/astrostatistics_bicocca_2024)
 * [review: MCMC methods for Bayesian data analysis in Astronomy](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082214-122339)  
 * [lecture series: Metaprogramming](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
@@ -260,3 +261,12 @@ References
 * [Publications of the Astronomical Society of the Pacific](https://iopscience.iop.org/journal/1538-3873)
 * [review: Best practices in Astronomy education](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-032620-021943)
 * [book: Astronomy education](https://iopscience.iop.org/book/edit/978-0-7503-1719-1)
+
+## Tools
+
+* [stellarium](https://stellarium.org/)
+* [Aladin lite](https://aladin.cds.unistra.fr/AladinLite/)
+* [Universe sandbox](https://universesandbox.com/)
+* [Gaia sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky)
+* [Google sky, Moon, Mars](https://www.google.com/sky/)
+* [wolfram alpha](https://www.wolframalpha.com/examples/science-and-technology/physics/astrophysics)
