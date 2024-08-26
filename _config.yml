@@ -172,7 +172,7 @@ paginate: 5
 
 kramdown:
   parse_block_html: true
-  #input: GFM
+  input: GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
