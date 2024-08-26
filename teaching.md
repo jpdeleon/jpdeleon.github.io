@@ -8,8 +8,8 @@ carbonads: false
 
 ### Introduction to Astronomy
 
-<details>
-  <summary>Outline</summary>
+<details markdown="1">
+  <summary markdown="span">Outline</summary>
  
   * **Overview: Historical Importance and Present-day Relevance**
   * **Thought Experiment: Using Astronomy Knowledge to Survive on a Deserted Island**
@@ -125,8 +125,8 @@ carbonads: false
   
 ### Astronomical Observation and Data Analysis
 
-<details>
-  <summary>Outline</summary>
+<details markdown="1">
+  <summary markdown="span">Outline</summary>
  
  * **Atmospheric Windows: In which wavelengths best to observe what target?**
    * Blackbody Radiation
@@ -211,8 +211,8 @@ carbonads: false
   
 ### Algorithms: Fast, Numerically Stable, Closed-form Solutions
 
-<details>
-  <summary>Outline</summary>
+<details markdown="1">
+  <summary markdown="span">Outline</summary>
  
   * **Python Basics**
   * **Version Control with Git and GitHub**
