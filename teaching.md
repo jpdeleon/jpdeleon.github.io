@@ -4,14 +4,16 @@ title: Teaching
 comments: false
 carbonads: false
 ---
-## Syllabi
+# Syllabi
 
-### Theoretical and Applied Physics
+## Physics
 
 <details markdown="1">
   <summary markdown="span">▶ Outline</summary>
 
-  Theoretical Physics
+  ### Theoretical Physics
+
+  ### References
   * [Classical physics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PL5E4E56893588CBA8)
   * [Quantum physics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC)
   * [Mathematical physics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PLbMVogVj5nJRhl_6TUGChpnt2Lg0AZvZu)
@@ -19,7 +21,9 @@ carbonads: false
   * [Nonlinear dynamics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t)
   * [Nonequilibrium statistical mechanics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PLbMVogVj5nJQqNx0ElSk3Ip04Ofg7B22W)
   
-  Applied Physics
+  ### Applied Physics
+
+  ### References
   * [animations by Vladimir Vaščák](https://www.vascak.cz/?id=1&language=en)
   * [book: Order-of-Magnitude Physics by Sanjoy Mahajan](https://www.inference.org.uk/sanjoy/oom/)
   * [channel: Action Lab](https://www.youtube.com/@TheActionLab/playlists)
@@ -27,13 +31,14 @@ carbonads: false
   * [channel: Engineer Guy](https://www.youtube.com/@engineerguyvideo)
   * [channel: Real Engineering](https://www.youtube.com/@RealEngineering/playlists)
   * [channel: NightHawkInLight](https://www.youtube.com/@Nighthawkinlight/playlists)  
-  * [channel: Smarter Everyday](https://www.youtube.com/playlist?list=PLjHf9jaFs8XUXBnlkBAuRkOpUJosxJ0Vx) 
+  * [channel: Smarter Everyday](https://www.youtube.com/playlist?list=PLjHf9jaFs8XUXBnlkBAuRkOpUJosxJ0Vx)
+  * [channel: Branch Education](https://www.youtube.com/@BranchEducation/playlists)
   
 </details>
 
 ---
 
-### Introduction to Astronomy
+## Introduction to Astronomy
 
 <details markdown="1">
   <summary markdown="span">▶ Outline</summary>
@@ -143,12 +148,10 @@ carbonads: false
       * [review: The Hubble constant](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082708-101829)
       * [review: Seeing Cosmology](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125526)
   
-  References  
+  ### References  
   * [lecture series: Cosmic origins of elements](https://www.youtube.com/playlist?list=PLUl4u3cNGP62In5JXH39ct5JtXja3VGJJ)
   * [Jason Kendall's Intro to Astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
   * [animations](https://zingale.github.io/astro_animations/)
-  
-  General references  
   * [lecture notes by Mitch Richmond](http://spiff.rit.edu/classes/)
   * [lecture series by Richard Wolfson](https://www.youtube.com/playlist?list=PLjBulz4rXhBqVCbXn1_kmctiJ_WM-fjcP)
   * [Science Talks @ Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS4PYU_a49xcnKG_BRoKrXRf)
@@ -164,11 +167,11 @@ carbonads: false
   * [channel: Cool Worlds](https://www.youtube.com/@CoolWorldsLab/playlists)
   * [channel: NASA Sagan Summer Workshop](https://www.youtube.com/@SaganSummerWorkshop/playlists)
 
-  Miscellaneous readings  
+  ### Miscellaneous readings  
   * [Astronomical reach of fundamental physics by Burrows & Ostriker](https://www.pnas.org/doi/full/10.1073/pnas.1318003111)
   * [What made Apollo a success by George Low](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
 
-  Tools  
+  ### Tools  
   * [stellarium](https://stellarium.org/)
   * [Aladin lite](https://aladin.cds.unistra.fr/AladinLite/)
   * [Universe sandbox](https://universesandbox.com/)
@@ -180,7 +183,7 @@ carbonads: false
 
 ---
 
-### Astronomical Observation and Data Analysis
+## Astronomical Observation and Data Analysis
 
 <details markdown="1">
   <summary markdown="span">▶ Outline</summary>
@@ -259,7 +262,7 @@ carbonads: false
       * [Authorea: paper of the future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future)
       * [Python packaging guide](https://packaging-guide.openastronomy.org/en/latest/)
         
- References 
+ ### References 
  * [Open datasets](https://github.com/jonathansick/awesome-astronomy?tab=readme-ov-file#datasets)
  * [lab demo: Optics](https://www.youtube.com/playlist?list=PL4E7FAAD67B171EBC)
  * [lecture series: Astronomical Techniques by Chris Mihos](http://burro.case.edu/Academics/Astr306/)
@@ -278,7 +281,7 @@ carbonads: false
 
 ---
 
-### Statistics & Algorithms
+## Statistics & Algorithms
 
 <details markdown="1">
   <summary markdown="span">▶ Outline</summary>
@@ -353,7 +356,7 @@ carbonads: false
       * [channel: 3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
       * [Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
   
-  References
+  ### References
   * [lecture series: Statistics & Machine Learning in Astronomy](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5)
   * [lecture series: Fundamentals of statistics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP)
   * [lecture series: Introduction to probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
