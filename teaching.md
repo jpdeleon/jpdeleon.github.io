@@ -148,7 +148,7 @@ carbonads: false
       * [review: The Hubble constant](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082708-101829)
       * [review: Seeing Cosmology](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125526)
   
-  ### References  
+  **References**
   * [lecture series: Cosmic origins of elements](https://www.youtube.com/playlist?list=PLUl4u3cNGP62In5JXH39ct5JtXja3VGJJ)
   * [Jason Kendall's Intro to Astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
   * [animations](https://zingale.github.io/astro_animations/)
@@ -167,11 +167,11 @@ carbonads: false
   * [channel: Cool Worlds](https://www.youtube.com/@CoolWorldsLab/playlists)
   * [channel: NASA Sagan Summer Workshop](https://www.youtube.com/@SaganSummerWorkshop/playlists)
 
-  ### Miscellaneous readings  
+  **Miscellaneous readings**  
   * [Astronomical reach of fundamental physics by Burrows & Ostriker](https://www.pnas.org/doi/full/10.1073/pnas.1318003111)
   * [What made Apollo a success by George Low](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
 
-  ### Tools  
+  **Tools**  
   * [stellarium](https://stellarium.org/)
   * [Aladin lite](https://aladin.cds.unistra.fr/AladinLite/)
   * [Universe sandbox](https://universesandbox.com/)
@@ -262,7 +262,8 @@ carbonads: false
       * [Authorea: paper of the future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future)
       * [Python packaging guide](https://packaging-guide.openastronomy.org/en/latest/)
         
- ### References 
+ **References**
+ * [Datalab notebooks](https://datalab.noirlab.edu/docs/manual/Appendices/Notebooks/Notebooks.html)
  * [Open datasets](https://github.com/jonathansick/awesome-astronomy?tab=readme-ov-file#datasets)
  * [lab demo: Optics](https://www.youtube.com/playlist?list=PL4E7FAAD67B171EBC)
  * [lecture series: Astronomical Techniques by Chris Mihos](http://burro.case.edu/Academics/Astr306/)
@@ -356,7 +357,7 @@ carbonads: false
       * [channel: 3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
       * [Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
   
-  ### References
+  **References**
   * [lecture series: Statistics & Machine Learning in Astronomy](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5)
   * [lecture series: Fundamentals of statistics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP)
   * [lecture series: Introduction to probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
