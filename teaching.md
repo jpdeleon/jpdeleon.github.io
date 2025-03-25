@@ -11,9 +11,9 @@ carbonads: false
 <details markdown="1">
   <summary markdown="span">▶ Outline</summary>
 
-  ### Theoretical Physics
+  **Theoretical Physics**
 
-  ### References
+  **References**
   * [Classical physics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PL5E4E56893588CBA8)
   * [Quantum physics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC)
   * [Mathematical physics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PLbMVogVj5nJRhl_6TUGChpnt2Lg0AZvZu)
@@ -21,9 +21,9 @@ carbonads: false
   * [Nonlinear dynamics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t)
   * [Nonequilibrium statistical mechanics, lecture series by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PLbMVogVj5nJQqNx0ElSk3Ip04Ofg7B22W)
   
-  ### Applied Physics
+  **Applied Physics**
 
-  ### References
+  **References**
   * [animations by Vladimir Vaščák](https://www.vascak.cz/?id=1&language=en)
   * [book: Order-of-Magnitude Physics by Sanjoy Mahajan](https://www.inference.org.uk/sanjoy/oom/)
   * [channel: Action Lab](https://www.youtube.com/@TheActionLab/playlists)
@@ -149,6 +149,7 @@ carbonads: false
       * [review: Seeing Cosmology](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125526)
   
   **References**
+  * [Teaching Philosophy](https://ui.adsabs.harvard.edu/abs/2023arXiv230905822L/abstract)
   * [lecture series: Cosmic origins of elements](https://www.youtube.com/playlist?list=PLUl4u3cNGP62In5JXH39ct5JtXja3VGJJ)
   * [Jason Kendall's Intro to Astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
   * [animations](https://zingale.github.io/astro_animations/)
@@ -178,6 +179,8 @@ carbonads: false
   * [Gaia sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky)
   * [Google sky, Moon, Mars](https://www.google.com/sky/)
   * [wolfram alpha](https://www.wolframalpha.com/examples/science-and-technology/physics/astrophysics)
+  * [Google colab](https://colab.research.google.com/)
+  * [Gemini deep research](https://gemini.google.com/deepresearch)
 
 </details>
 
