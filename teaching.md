@@ -69,7 +69,7 @@ carbonads: false
       * [review: New spectral types L & T](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.42.053102.134017)
     * Formation and Evolution Models
       * [review: First stars, 2004](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.42.053102.134034)
-      * [grids using isochrones](https://github.com/timothydmorton/isochrones)
+      * [code: Stellar evolution model/ isochrone grids](https://github.com/timothydmorton/isochrones)
       * [review: Origin of binary stars, 2002](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.40.060401.093810)
     * Stellar Atmosphere Models
       * [models in ARIADNE](github.com/jvines/astroARIADNE)
@@ -80,6 +80,7 @@ carbonads: false
       * [review: Formation and early evolution of low-mass stars and brown dwarfs](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125528)
       * [review: Observations of brown dwarfs, 2000](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.38.1.485)
       * [review: Stellar pulsations across HR diagram, 1995](https://www.annualreviews.org/doi/abs/10.1146/annurev.aa.33.090195.000451)
+      * [code: interactive HR diagram with spectra](https://github.com/Majoburo/INTERACTIVE_HR/tree/master)
       * [code: star formation simulation](https://sedssastrablog.wordpress.com/2021/10/04/star-formation-simulation-in-python/)
   * **Solar System: In-situ Observations**
     * Mars Curiosity and Perseverance Rovers
