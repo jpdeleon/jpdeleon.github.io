@@ -82,6 +82,8 @@ carbonads: false
       * [review: Stellar pulsations across HR diagram, 1995](https://www.annualreviews.org/doi/abs/10.1146/annurev.aa.33.090195.000451)
       * [code: interactive HR diagram with spectra](https://github.com/Majoburo/INTERACTIVE_HR/tree/master)
       * [code: star formation simulation](https://sedssastrablog.wordpress.com/2021/10/04/star-formation-simulation-in-python/)
+      * [animation: Star in a Box](https://starinabox.lco.global/)
+      * [code: stellar evolution visualization](https://astro-tulips.readthedocs.io/en/latest/index.html)
   * **Solar System: In-situ Observations**
     * Mars Curiosity and Perseverance Rovers
     * Juno Mission to Jupiter
