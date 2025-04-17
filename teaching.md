@@ -80,11 +80,11 @@ carbonads: false
       * [review: Formation and early evolution of low-mass stars and brown dwarfs](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125528)
       * [review: Observations of brown dwarfs, 2000](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.38.1.485)
       * [review: Stellar pulsations across HR diagram, 1995](https://www.annualreviews.org/doi/abs/10.1146/annurev.aa.33.090195.000451)
-      * [code: interactive HR diagram with spectra](https://github.com/Majoburo/INTERACTIVE_HR/tree/master)
-      * [code: star formation simulation](https://sedssastrablog.wordpress.com/2021/10/04/star-formation-simulation-in-python/)
+      * [code: Interactive HR diagram with spectra](https://github.com/Majoburo/INTERACTIVE_HR/tree/master)
+      * [code: Star formation simulation](https://sedssastrablog.wordpress.com/2021/10/04/star-formation-simulation-in-python/)
       * [animation: Star in a Box](https://starinabox.lco.global/)
-      * [code: stellar evolution visualization](https://astro-tulips.readthedocs.io/en/latest/index.html)
-      * [code: simulation of Sun's interior](https://github.com/GabrielWendell/PyMoS2/tree/main)
+      * [code: Stellar evolution visualization](https://astro-tulips.readthedocs.io/en/latest/index.html)
+      * [code: Computational modeling of a star](https://github.com/GabrielWendell/PyMoS2/tree/main)
   * **Solar System: In-situ Observations**
     * Mars Curiosity and Perseverance Rovers
     * Juno Mission to Jupiter
@@ -101,10 +101,11 @@ carbonads: false
   * **Planets**
     * Structure: Core, Atmosphere
     * Formation: N-body using REBOUND
+      * [book chapter: Giant planet formation, 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250113214Y/abstract)
       * [book chapter: Giant planet formation, 2010](https://ui.adsabs.harvard.edu/abs/2010exop.book..319D/abstract)
+      * [review: Theory of planet formation, 2025](https://ui.adsabs.harvard.edu/abs/2024arXiv241211064A/abstract)
       * [article: Theory of planet formation, 2010](https://ui.adsabs.harvard.edu/abs/2010arXiv1012.5281M/abstract)
       * [review: Planet formation, 1993](https://www.annualreviews.org/doi/abs/10.1146/annurev.aa.31.090193.001021)
-      * [review: Planet formation theory, 2025](https://ui.adsabs.harvard.edu/abs/2024arXiv241211064A/abstract)
       * [book: Astrophysics of planet formation, 2013](https://ui.adsabs.harvard.edu/abs/2013apf..book.....A/abstract)
       * [articles: Journal of geophysical research](https://phys.org/journals/journal-of-geophysical-research-planets/)
     * Evolution: Radius, Atmosphere, Orbit
