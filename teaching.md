@@ -309,10 +309,11 @@ carbonads: false
     * using [wolfram alpha](https://www.wolframalpha.com/examples/mathematics)
     * using [sympy](https://www.sympy.org/en/index.html)
   * **Bayesian vs Frequentist Statistics**
-    * [blog](https://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) 
+    * [blog](https://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)
   * **Fitting Models to Data**
     * [coursebook by neuromatch](https://compneuro.neuromatch.io/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial1.html)
     * [notebooks](https://github.com/ixkael/Prob-tools/tree/master/notebooks)
+    * Implementation using [bambi](https://bambinos.github.io/bambi)
   * **Optimization**
     * using [scipy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)
     * using [jax](https://jax.exoplanet.codes/en/latest/tutorials/)
@@ -320,15 +321,16 @@ carbonads: false
     * Likelihood, Prior, Posterior 
     * Propagation of Uncertainties
     * Metropolis-Hastings MCMC from [scratch](https://github.com/fbartolic/fitting_model_to_data/blob/master/fitting_model_to_data.ipynb)
-    * affine-invariant MCMMC using [emcee](https://emcee.readthedocs.io/en/stable/)
+    * affine-invariant MCMC using [emcee](https://emcee.readthedocs.io/en/stable/)
     * Nested Sampling
       * using [dynesty](https://dynesty.readthedocs.io/en/stable/)
       * using [ultranest](https://johannesbuchner.github.io/UltraNest/index.html)
     * Hamiltonian Monte Carlo
+      * No U-Turn Sampler using [pymc](https://www.pymc.io/projects/examples/en/latest/gallery.html) 
     * Gibbs Sampling
-    * No-U-Turn Sampler
     * Parallel Tampering
     * Sampling methods [demo](https://chi-feng.github.io/mcmc-demo/app.html)
+      * Implementation using [bilby](https://bilby-dev.github.io/bilby/compare_samplers.html) 
     * Convergence Tests
     * Autocorrelation
     * Evidence
@@ -367,6 +369,7 @@ carbonads: false
       * [Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
   
   **References**
+  * [web course: Computation astrophysics](https://zingale.github.io/computational_astrophysics/intro.html)
   * [lecture series: Statistics & Machine Learning in Astronomy](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5)
   * [lecture series: Fundamentals of statistics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP)
   * [lecture series: Introduction to probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
