@@ -25,6 +25,7 @@ carbonads: false
 
   **References**
   * [Animations by Vladimir Vaščák](https://www.vascak.cz/?id=1&language=en)
+  * [Interactive simulations by U. of Colorado](https://phet.colorado.edu/en/simulations/browse)
   * [Book:  Order-of-Magnitude Physics by Sanjoy Mahajan](https://www.inference.org.uk/sanjoy/oom/)
   * [Channel:  Action Lab](https://www.youtube.com/@TheActionLab/playlists)
   * [Channel:  Applied Science](https://www.youtube.com/user/bkraz333/playlists)
