@@ -34,6 +34,11 @@ carbonads: false
   * [Channel:  NightHawkInLight](https://www.youtube.com/@Nighthawkinlight/playlists)  
   * [Channel:  Smarter Everyday](https://www.youtube.com/playlist?list=PLjHf9jaFs8XUXBnlkBAuRkOpUJosxJ0Vx)
   * [Channel:  Branch Education](https://www.youtube.com/@BranchEducation/playlists)
+
+  **General Physics**
+
+  **References**
+  * [Web course: Einstein, Oppenheimer, Feynman: Physics in the 20th Century](https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/video_galleries/lecture-videos/)
   
 </details>
 
@@ -156,7 +161,6 @@ carbonads: false
       * [Review:  Seeing Cosmology](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125526)
   
   **References**
-  * [Teaching Philosophy](https://ui.adsabs.harvard.edu/abs/2023arXiv230905822L/abstract)
   * [Lecture series: Cosmic origins of elements](https://www.youtube.com/playlist?list=PLUl4u3cNGP62In5JXH39ct5JtXja3VGJJ)
   * [Jason Kendall's Intro to Astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
   * [Animations](https://zingale.github.io/astro_animations/)
@@ -371,6 +375,7 @@ carbonads: false
   **References**
   * [Web course: Neuromatch](https://neuromatch.io/open-education-resources/)
   * [Web course: Computation astrophysics](https://zingale.github.io/computational_astrophysics/intro.html)
+  * [Web course: Practical statistics](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/video_galleries/lecture-videos/)
   * [Lecture series: Statistics & Machine Learning in Astronomy](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5)
   * [Lecture series: Fundamentals of statistics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP)
   * [Lecture series: Introduction to probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
@@ -382,6 +387,19 @@ carbonads: false
   * [Channel:  IT & networking fundamentals](https://www.youtube.com/@PowerCertAnimatedVideos/playlists)
   * [Lecture series: missing semester in CS](https://www.youtube.com/@MissingSemester/playlists)
   
+</details>
+
+---
+
+## Philosophy of Teaching Science
+
+<details markdown="1">
+  <summary markdown="span">▶ Outline</summary>
+  
+  **References**
+  * [Article: Teaching Philosophy](https://ui.adsabs.harvard.edu/abs/2023arXiv230905822L/abstract)
+  * [Web course: Teaching College-level Science](https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/video_galleries/video-discussions/)
+
 </details>
 
 ---
