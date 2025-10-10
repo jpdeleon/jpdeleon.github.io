@@ -302,6 +302,7 @@ carbonads: false
   <summary markdown="span">▶ Outline</summary>
   
   * **Statistics**
+    * [Interactive Book](https://personal.math.ubc.ca/~tbjw/ila/)   
     * [Book](https://theoryandpractice.org/stats-ds-book/intro.html)
     * [Lecture](https://ucsd-css2.github.io/ucsd-css2-website/lectures/01-intro.html)
   * **Linear Algebra**
