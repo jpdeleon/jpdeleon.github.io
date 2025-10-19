@@ -290,7 +290,8 @@ carbonads: false
  * [Review:  Standard photometric systems](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.41.082801.100251)
  * [Review:  Digital image reconstruction](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.43.112904.104850)
  * [Book:  Numerical Python in A&A, Springer](https://www.google.co.jp/books/edition/Numerical_Python_in_Astronomy_and_Astrop/D4k4EAAAQBAJ?hl)
- * [Lecture series: Introduction to Computer Science & Programming with Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) 
+ * [Lecture series: Introduction to Computer Science & Programming with Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+ * [Astronomical Software Carpentry](https://datacarpentry.github.io/astronomy-python/instructor/key-points.html)
 
  </details>
 
