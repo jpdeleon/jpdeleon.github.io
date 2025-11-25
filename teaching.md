@@ -352,11 +352,13 @@ carbonads: false
     * picking colors using [color brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
   * **Gaussian Process Regression**
     * [Review:  GP regression for astronomical time-series](https://github.com/dfm/araa-gps/tree/main)
-    * [tinygp](https://tinygp.readthedocs.io/en/stable/tutorials/intro.html)
+    * [Code:  tinygp](https://tinygp.readthedocs.io/en/stable/tutorials/intro.html)
+  * **Differentiable Programming**
+    * [Book:  The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) 
   * **Hierarchical Modeling**
     * using [pymc](https://www.pymc.io/projects/examples/en/latest/gallery.html) 
   * **Machine Learning**
-    * using [astroml](https://www.astroml.org)
+    * [Code:  astroml](https://www.astroml.org)
     * Neural Networks
       * [Coursebook by neuromatch](https://neuroai.neuromatch.io/tutorials/intro.html)
       * [Channel:  welch labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
