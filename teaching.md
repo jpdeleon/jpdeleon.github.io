@@ -248,8 +248,8 @@ carbonads: false
    * Light Travel Time Delay
  * **Transit Modeling**
    * Basic Model
-     * using [Pytransit](https://pytransit.readthedocs.io/en/latest/)
-     * using [Starry](https://starry.readthedocs.io/en/latest/?badge=latest)
+     * [Code: Pytransit](https://pytransit.readthedocs.io/en/latest/)
+     * [Code: Starry](https://starry.readthedocs.io/en/latest/?badge=latest)
    * Parameterization
      * Transforms
      * Quadratic Limb Darkening: u1, u2 -> q1, q2 (Kipping+2016)
@@ -261,18 +261,18 @@ carbonads: false
    * [Lomb Scargle periodogram](https://docs.astropy.org/en/stable/api/astropy.timeseries.LombScargle.html)
    * [Generalized Lomb-Scargle](https://github.com/mzechmeister/GLS)
  * **Spectroscopy**
-   * using [specutils](https://specutils.readthedocs.io/en/stable/)
+   * [Code: specutils](https://specutils.readthedocs.io/en/stable/)
    * Cross-correlation
  * **RV Modeling**
    * Basic Model
    * Parameterization
  * **Joint RV+Transit Modeling**
  * Python Basics
-      * using [numpy](https://numpy.org/numpy-tutorials/)
+      * [Code: numpy](https://numpy.org/numpy-tutorials/)
       * Using Jupyter Notebook / Lab / Google Colab
  * Version Control with Git and GitHub
  * Reproducible research
-   * using [showyourwork](https://show-your.work/en/latest/)
+   * [Code: showyourwork](https://show-your.work/en/latest/)
    * [Authorea: paper of the future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future)
    * [Python packaging guide](https://packaging-guide.openastronomy.org/en/latest/)
         
@@ -310,28 +310,29 @@ carbonads: false
     * [Coursebook by neuromatch](https://compneuro.neuromatch.io/tutorials/W0D3_LinearAlgebra/chapter_title.html#)
     * [Channel:  3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  
   * **Probability Distributions**
-    * using [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html) 
+    * [Code: scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+    * [Article: Power laws, Pareto distributions and Zipf's law](https://arxiv.org/abs/cond-mat/0412004)
     * [Book:  astroML](https://www.astroml.org/astroML-notebooks/chapter3/astroml_chapter3_Descriptive_Statistics.html)
   * **Analytical methods**
-    * using [wolfram alpha](https://www.wolframalpha.com/examples/mathematics)
-    * using [sympy](https://www.sympy.org/en/index.html)
+    * [Code: wolfram alpha](https://www.wolframalpha.com/examples/mathematics)
+    * [Code: sympy](https://www.sympy.org/en/index.html)
   * **Bayesian vs Frequentist Statistics**
-    * [blog](https://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)
+    * [Blog](https://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)
   * **Fitting Models to Data**
     * [Coursebook by neuromatch](https://compneuro.neuromatch.io/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial1.html)
     * [notebooks](https://github.com/ixkael/Prob-tools/tree/master/notebooks)
     * Implementation using [bambi](https://bambinos.github.io/bambi)
   * **Optimization**
-    * using [scipy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)
-    * using [jax](https://jax.exoplanet.codes/en/latest/tutorials/)
+    * [Code: scipy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)
+    * [Code: jax](https://jax.exoplanet.codes/en/latest/tutorials/)
   * **Monte Carlo Methods**
     * Likelihood, Prior, Posterior 
     * Propagation of Uncertainties
     * Metropolis-Hastings MCMC from [scratch](https://github.com/fbartolic/fitting_model_to_data/blob/master/fitting_model_to_data.ipynb)
     * Affine-invariant MCMC using [emcee](https://emcee.readthedocs.io/en/stable/)
     * Nested Sampling
-      * using [dynesty](https://dynesty.readthedocs.io/en/stable/)
-      * using [ultranest](https://johannesbuchner.github.io/UltraNest/index.html)
+      * [Code: dynesty](https://dynesty.readthedocs.io/en/stable/)
+      * [Code: ultranest](https://johannesbuchner.github.io/UltraNest/index.html)
     * Hamiltonian Monte Carlo
       * No U-Turn Sampler using [pymc](https://www.pymc.io/projects/examples/en/latest/gallery.html) 
     * Sampling methods [demo](https://chi-feng.github.io/mcmc-demo/app.html)
@@ -342,13 +343,13 @@ carbonads: false
     * Evidence
     * Model comparison
   * **Reporting MCMC Results**
-    * [article](https://pkgw.github.io/mcmc-reporting/)
+    * [Article](https://pkgw.github.io/mcmc-reporting/)
     * Posteriors vs Point Estimates
     * Percentiles
   * **Visualization**
-    * using [arviz](https://python.arviz.org/en/stable/examples/index.html)
-    * [paper](https://ui.adsabs.harvard.edu/abs/2017arXiv170901449G/abstract)
-    * [blog: information is beautiful](https://www.informationisbeautifulawards.com/showcase)
+    * [Code: arviz](https://python.arviz.org/en/stable/examples/index.html)
+    * [Article: Visualization in Bayesian workflow](https://ui.adsabs.harvard.edu/abs/2017arXiv170901449G/abstract)
+    * [Blog: information is beautiful](https://www.informationisbeautifulawards.com/showcase)
     * picking colors using [color brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
   * **Gaussian Process Regression**
     * [Review:  GP regression for astronomical time-series](https://github.com/dfm/araa-gps/tree/main)
@@ -356,7 +357,7 @@ carbonads: false
   * **Differentiable Programming**
     * [Book:  The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) 
   * **Hierarchical Modeling**
-    * using [pymc](https://www.pymc.io/projects/examples/en/latest/gallery.html) 
+    * [Code: pymc](https://www.pymc.io/projects/examples/en/latest/gallery.html) 
   * **Machine Learning**
     * [Code:  astroml](https://www.astroml.org)
     * Neural Networks
