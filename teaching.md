@@ -182,6 +182,7 @@ carbonads: false
   **Miscellaneous readings**  
   * [Astronomical reach of fundamental physics by Burrows & Ostriker](https://www.pnas.org/doi/full/10.1073/pnas.1318003111)
   * [What made Apollo a success by George Low](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
+  * [Blog: Astrobites](https://astrobites.org/#latest)
 
   **Tools**  
   * [Stellarium](https://stellarium.org/)
