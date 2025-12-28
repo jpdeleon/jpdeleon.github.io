@@ -24,9 +24,6 @@ carbonads: false
   **Applied Physics**
 
   **References**
-  * [Animations by Vladimir Vaščák](https://www.vascak.cz/?id=1&language=en)
-  * [Interactive simulations by U. of Colorado](https://phet.colorado.edu/en/simulations/browse)
-  * [Book:  Order-of-Magnitude Physics by Sanjoy Mahajan](https://www.inference.org.uk/sanjoy/oom/)
   * [Channel:  Action Lab](https://www.youtube.com/@TheActionLab/playlists)
   * [Channel:  Applied Science](https://www.youtube.com/user/bkraz333/playlists)
   * [Channel:  Engineer Guy](https://www.youtube.com/@engineerguyvideo)
@@ -38,7 +35,12 @@ carbonads: false
   **General Physics**
 
   **References**
-  * [Web course: Einstein, Oppenheimer, Feynman: Physics in the 20th Century](https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/video_galleries/lecture-videos/)
+  * [Channel:  Animations by Vladimir Vaščák](https://www.vascak.cz/?id=1&language=en)
+  * [Interactive simulations by U. of Colorado](https://phet.colorado.edu/en/simulations/browse)
+  * [Book:  Order-of-Magnitude Physics by Sanjoy Mahajan](https://www.inference.org.uk/sanjoy/oom/)
+  * [Channel:  MITx by W. Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw)
+  * [Book:  Physics by Openstax](https://openstax.org/subjects/science)
+  * [Web course:  Einstein, Oppenheimer, Feynman: Physics in the 20th Century](https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/video_galleries/lecture-videos/)
   
 </details>
 
@@ -161,6 +163,7 @@ carbonads: false
       * [Review:  Seeing Cosmology](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125526)
   
   **References**
+  * [Book: Astronomy by Openstax](https://openstax.org/books/astronomy-2e/pages/1-introduction)
   * [Lecture series: Cosmic origins of elements](https://www.youtube.com/playlist?list=PLUl4u3cNGP62In5JXH39ct5JtXja3VGJJ)
   * [Jason Kendall's Intro to Astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
   * [Animations](https://zingale.github.io/astro_animations/)
