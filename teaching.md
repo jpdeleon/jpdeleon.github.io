@@ -72,15 +72,19 @@ carbonads: false
       * [Review:  Sun's variable radiation and its relevance for Earth, 1997](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.35.1.33)
       * [Review:  Solar neutrino problem, 1995](https://www.annualreviews.org/doi/abs/10.1146/annurev.aa.33.090195.002331)
   * **Stars**
-    * Color of Stars
-    * Spectral Types
+    * Structure
+      * [Review: Asteroseismology across HRD, 2022](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-052920-094232)  
+    * Properties: Color, Spectral Types
+      * [Article: Digital Color Code of Stars](https://ui.adsabs.harvard.edu/abs/2021AN....342..578H/abstract) 
       * [Review:  New spectral types L & T](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.42.053102.134017)
     * Formation and Evolution Models
+      * [Review:  Dust Growth and Evolution in Protoplanetary Disks, 2024](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-071221-052705) 
+      * [Review:  Star formation, 2025](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-013125-122023) 
       * [Review:  First stars, 2004](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.42.053102.134034)
       * [Code:  Stellar evolution model/ isochrone grids](https://github.com/timothydmorton/isochrones)
       * [Review:  Origin of binary stars, 2002](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.40.060401.093810)
     * Stellar Atmosphere Models
-      * [Models in ARIADNE](github.com/jvines/astroARIADNE)
+      * [Code: ARIADNE](github.com/jvines/astroARIADNE)
     * References
       * [Article:  Size of the Sun](https://ui.adsabs.harvard.edu/abs/2024arXiv240117105F/abstract) 
       * [Review:  Theory of star formation, 2007](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.45.051806.110602)
@@ -99,6 +103,8 @@ carbonads: false
     * Cassini Mission to Saturn
     * New Horizon Mission to Pluto
     * Voyager Space Probe Missions to Interstellar Space
+    * Minor bodies
+      * [Review: Transneptunian region/ Kuiper Belt, 2021](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-120920-010005) 
     * References
       * [Article:  Solar system overview](https://science.nasa.gov/solar-system/) 
       * [Review:  Chaos in the solar system, 2001](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.39.1.581)
@@ -107,10 +113,13 @@ carbonads: false
     * Earth Observation: Copernicus Program
     * Living, Breathing World: [Google Earth timelapse](https://earthengine.google.com/timelapse/)
   * **Planets**
-    * Structure: Core, Atmosphere
-    * Formation: N-body using REBOUND
+    * Structure: Interior and Atmosphere
+      * [Review: Exoplanet atmospheres, 2025](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-052622-031342)
+      * [Review: Rocky planet atmosphere, 2022](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-052920-125632)
+    * Formation:
       * [Book chapter: Giant planet formation, 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250113214Y/abstract)
       * [Book chapter: Giant planet formation, 2010](https://ui.adsabs.harvard.edu/abs/2010exop.book..319D/abstract)
+      * [Review: Formation of Giant Planets, 2025](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-052722-094843)
       * [Review:  Theory of planet formation, 2025](https://ui.adsabs.harvard.edu/abs/2024arXiv241211064A/abstract)
       * [Article:  Theory of planet formation, 2010](https://ui.adsabs.harvard.edu/abs/2010arXiv1012.5281M/abstract)
       * [Review:  Planet formation, 1993](https://www.annualreviews.org/doi/abs/10.1146/annurev.aa.31.090193.001021)
@@ -123,12 +132,12 @@ carbonads: false
       * [Book:  Exoplanet handbook, 2018 (2nd ed.)](https://www.cambridge.org/core/books/exoplanet-handbook/750759E015FDCF469D141F0046198519)
       * [Book:  Handbook of exoplanets, 2018]([https://link.springer.com/referencework/10.1007/978-3-319-55333-7](http://www.kusastro.kyoto-u.ac.jp/~yamamoto/astro-ph/Handbook.html))
     * Statistics
-      * [Review:  Exoplanet statistics, 2007](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.45.051806.110529)
       * [Review:  Exoplanet statistics, 2021](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-112420-020055)
-      * [Review:  Occurrence and architecute of exoplanetary systems](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082214-122246)
+      * [Review:  Exoplanet statistics, 2007](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.45.051806.110529)
+      * [Review:  Occurrence and architecture of exoplanetary systems](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-082214-122246)
     * Surprising Discoveries
       * [Article:  Planets that shouldn't exist](https://earthlyuniverse.com/10-planets-shouldnt-exist/)
-      * [news articles](https://astrobiology.com/extrasolar-planets)
+      * [News articles](https://astrobiology.com/extrasolar-planets)
     * Astrobiology
       * [Review:  SETI, 2001](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.39.1.511)
       * [Review:  The study of living universe, 2005](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.43.051804.102202)
@@ -147,12 +156,13 @@ carbonads: false
   * **Galaxy: Structure, Formation, and Evolution**
     * [Simulations using galpy](https://www.galpy.org)
     * [Review:  The first galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081710-102608)
-    * [revew: Spirals in galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-052920-104505)
+    * [Revew: Spirals in galaxies, 2022](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-052920-104505)
     * [Review:  Theoretical challenges in galaxy formation](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081913-040019)
     * [Review:  Galaxies in the first billion years after the big bang](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081915-023417)
     * [Review:  Strong lensing by galaxies](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081309-130924)
   * **Cosmology**
     * Structure: Flat, Curved, Open, or Closed?
+      * [Review:  Hubble constant, 2025](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-052622-033813) 
     * Composition: Matter, Dark Matter, Dark Energy
       * [Review:  Dark matter searchers](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081710-102528)
       * [Review:  Dark energy and the accelerating universe](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.46.060407.145243)
@@ -172,7 +182,6 @@ carbonads: false
   * [Science Talks @ Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS4PYU_a49xcnKG_BRoKrXRf)
   * [Annual review of A&A](https://www.annualreviews.org/journal/astro)
   * [Publications of the Astronomical Society of the Pacific](https://iopscience.iop.org/journal/1538-3873)
-  * [Review:  Best practices in Astronomy education](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-032620-021943)
   * [Book:  Astronomy education](https://iopscience.iop.org/book/edit/978-0-7503-1719-1)
   * [Channel:  CrashCourse Astronomy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)
   * [Channel:  SciShow Space](https://www.youtube.com/playlist?list=PLsaZOTCFB3C7L9GfMwoPYj1hU2I0LhpfN)
@@ -378,7 +387,7 @@ carbonads: false
     * [Blog: information is beautiful](https://www.informationisbeautifulawards.com/showcase)
     * picking colors using [color brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
   * **Gaussian Process Regression**
-    * [Review:  GP regression for astronomical time-series](https://github.com/dfm/araa-gps/tree/main)
+    * [Review:  GP regression for astronomical time-series, 2023](https://github.com/dfm/araa-gps/tree/main)
     * [Code:  tinygp](https://tinygp.readthedocs.io/en/stable/tutorials/intro.html)
   * **Differentiable Programming**
     * [Book:  The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) 
@@ -429,6 +438,7 @@ carbonads: false
   
   **References**
   * [Article: Teaching Philosophy](https://ui.adsabs.harvard.edu/abs/2023arXiv230905822L/abstract)
+  * [Review: Astronomers Engaging with the Education Ecosystem: A Best-Evidence Synthesis, 2020](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-032620-021943)
   * [Web course: Teaching College-level Science](https://ocw.mit.edu/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/video_galleries/video-discussions/)
 
 </details>
