@@ -124,9 +124,10 @@ carbonads: false
       * [Article:  Theory of planet formation, 2010](https://ui.adsabs.harvard.edu/abs/2010arXiv1012.5281M/abstract)
       * [Review:  Planet formation, 1993](https://www.annualreviews.org/doi/abs/10.1146/annurev.aa.31.090193.001021)
       * [Book:  Astrophysics of planet formation, 2013](https://ui.adsabs.harvard.edu/abs/2013apf..book.....A/abstract)
-      * [articles: Journal of geophysical research](https://phys.org/journals/journal-of-geophysical-research-planets/)
+      * [Articles: Journal of geophysical research](https://phys.org/journals/journal-of-geophysical-research-planets/)
     * Evolution: Radius, Atmosphere, Orbit
       * [Review:  Protoplanetary diks and their evolution](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081710-102548)
+      * [Code: Planet evolution simulation using VPlanet](https://ui.adsabs.harvard.edu/abs/2020PASP..132b4502B/abstract)
   * **Exoplanets**
     * Detection
       * [Book:  Exoplanet handbook, 2018 (2nd ed.)](https://www.cambridge.org/core/books/exoplanet-handbook/750759E015FDCF469D141F0046198519)
@@ -175,10 +176,10 @@ carbonads: false
   **References**
   * [Book: Astronomy by Openstax](https://openstax.org/books/astronomy-2e/pages/1-introduction)
   * [Lecture series: Cosmic origins of elements](https://www.youtube.com/playlist?list=PLUl4u3cNGP62In5JXH39ct5JtXja3VGJJ)
-  * [Jason Kendall's Intro to Astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
+  * [Lecture series: Jason Kendall's Intro to Astronomy course](https://www.youtube.com/playlist?list=PLyu4Fovbph6fl0UGSo3aLqHCmBIYkiqzq)
   * [Animations](https://zingale.github.io/astro_animations/)
-  * [Lecture notes by Mitch Richmond](http://spiff.rit.edu/classes/)
-  * [Lecture series by Richard Wolfson](https://www.youtube.com/playlist?list=PLjBulz4rXhBqVCbXn1_kmctiJ_WM-fjcP)
+  * [Lecture notes: Mitch Richmond](http://spiff.rit.edu/classes/)
+  * [Lecture series: Richard Wolfson](https://www.youtube.com/playlist?list=PLjBulz4rXhBqVCbXn1_kmctiJ_WM-fjcP)
   * [Science Talks @ Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS4PYU_a49xcnKG_BRoKrXRf)
   * [Annual review of A&A](https://www.annualreviews.org/journal/astro)
   * [Publications of the Astronomical Society of the Pacific](https://iopscience.iop.org/journal/1538-3873)
