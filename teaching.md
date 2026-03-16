@@ -369,7 +369,8 @@ carbonads: false
     * Nested Sampling
       * [Code: dynesty](https://dynesty.readthedocs.io/en/stable/)
       * [Code: ultranest](https://johannesbuchner.github.io/UltraNest/index.html)
-    * Hamiltonian Monte Carlo
+    * Hamiltonian Monte Carlo (HMC)
+      * [Article: Conceptual Introduction to HMC](https://arxiv.org/abs/1701.02434) 
       * No U-Turn Sampler using [pymc](https://www.pymc.io/projects/examples/en/latest/gallery.html) 
     * Sampling methods [demo](https://chi-feng.github.io/mcmc-demo/app.html)
       * [Samplers from scratch](https://nbviewer.org/github/JohannesBuchner/PracticalInferenceForResearchersInThePhysicalSciencesCourse/tree/main/) 
