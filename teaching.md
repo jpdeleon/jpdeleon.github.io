@@ -37,6 +37,7 @@ carbonads: false
   **References**
   * [Channel:  Animations by Vladimir Vaščák](https://www.vascak.cz/?id=1&language=en)
   * [Interactive simulations by U. of Colorado](https://phet.colorado.edu/en/simulations/browse)
+  * [Articles:  Progress in Physics](https://progress-in-physics.com/)
   * [Book:  Order-of-Magnitude Physics by Sanjoy Mahajan](https://www.inference.org.uk/sanjoy/oom/)
   * [Channel:  MITx by W. Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw)
   * [Book:  Physics by Openstax](https://openstax.org/subjects/science)
