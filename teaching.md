@@ -36,6 +36,7 @@ carbonads: false
 
   **References**
   * [Channel:  Animations by Vladimir Vaščák](https://www.vascak.cz/?id=1&language=en)
+  * [Video Explainer](https://distilbook.com/explorer)
   * [Interactive simulations by U. of Colorado](https://phet.colorado.edu/en/simulations/browse)
   * [Articles:  Progress in Physics](https://progress-in-physics.com/)
   * [Book:  Order-of-Magnitude Physics by Sanjoy Mahajan](https://www.inference.org.uk/sanjoy/oom/)
@@ -340,6 +341,7 @@ carbonads: false
   <summary markdown="span">▶ Outline</summary>
   
   * **Statistics**
+    * [Interactive Course](https://www.tensortonic.com/ml-math)
     * [Interactive Book](https://personal.math.ubc.ca/~tbjw/ila/)   
     * [Book](https://theoryandpractice.org/stats-ds-book/intro.html)
     * [Lecture](https://ucsd-css2.github.io/ucsd-css2-website/lectures/01-intro.html)
