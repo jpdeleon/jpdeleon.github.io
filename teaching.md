@@ -6,6 +6,10 @@ carbonads: false
 ---
 # Syllabi
 
+**Jump to:** [Physics](#physics) &middot; [Introduction to Astronomy](#introduction-to-astronomy)
+
+---
+
 ## Physics
 
 <details markdown="1">

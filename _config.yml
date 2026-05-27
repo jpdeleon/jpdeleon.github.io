@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: gestalt
+title: Jerome de Leon | Exoplanet Astronomer
 
 # Short description of your site
-description: website
+description: Postdoctoral researcher at UTokyo studying young transiting exoplanets
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,9 @@ baseurl: ""
 navbar-links:
   about me: "aboutme"
   research: "research"
+  publications: "publications"
   teaching : "teaching"
+  guide: "guide"
   search: "search"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

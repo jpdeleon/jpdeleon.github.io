@@ -8,7 +8,12 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a postdoctoral researcher at The University of Tokyo.
+Currently a postdoctoral researcher at <a href="https://www.s.u-tokyo.ac.jp/en/" target="_blank">The University of Tokyo</a>.
+</p>
+
+<p class="about-text">
+<span class="fa fa-search about-icon"></span>
+Research interests: young exoplanets &middot; transit photometry &middot; stellar clusters &middot; protoplanetary disks &middot; open-source astronomy tools
 </p>
 
 <p class="about-text">
@@ -29,7 +34,7 @@ I like basketball, cooking, camping, and woodworking.
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-You can also view my <a href="https://github.com/jpdeleon/cv">CV</a>.
+View my <a href="https://github.com/jpdeleon/cv">CV on GitHub</a> or my <a href="https://scholar.google.com/citations?user=_Z8ialwAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 </p>
 
 </div>
@@ -44,7 +49,7 @@ I will be away until XXX, with very limited time to work. My responses will be s
 -->
 
 
-<p>You can <a href="mailto:jpdeleon.bsap@gmail.com">email me</a> or find me <a href="https://twitter.com/edxplore">on Twitter</a> if you want to get in touch.</p>
+<p>You can <a href="mailto:jpdeleon.bsap@gmail.com">email me</a> or find me on <a href="https://github.com/jpdeleon">GitHub</a> or <a href="https://www.linkedin.com/in/jpdeleonbsap">LinkedIn</a> if you want to get in touch.</p>
 
 <form action="https://formspree.io/jpdeleon.bsap@gmail.com" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
