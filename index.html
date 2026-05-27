@@ -1,96 +1,82 @@
 ---
 layout: page
-title: gestalt
-subtitle: "when the whole is more than the sum of its parts"
+title: Jerome de Leon
+subtitle: Exoplanet Astronomer
+css: "/css/aboutme.css"
 use-site-title: true
 ---
 
-<div class="intro-section" style="margin-bottom: 2em; padding: 1.2em 1.5em; background: #f9f9f9; border-left: 4px solid #008AFF; border-radius: 2px;">
-  <p style="margin: 0 0 0.5em 0; font-size: 1.05em;">
-    I'm <strong>Jerome de Leon</strong>, a postdoctoral researcher at The University of Tokyo studying <strong>young transiting exoplanets</strong>.
-    I discover and characterize planets outside our Solar system to understand how planetary systems form and evolve.
-  </p>
-  <p style="margin: 0; font-size: 0.95em; color: #555;">
-    <a href="/research">Research</a> &middot;
-    <a href="/publications">Publications</a> &middot;
-    <a href="/aboutme">About me</a>
-  </p>
+<div id="aboutme-section">
+
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+Currently a postdoctoral researcher at <a href="https://www.s.u-tokyo.ac.jp/en/" target="_blank">The University of Tokyo</a>.
+</p>
+
+<p class="about-text">
+<span class="fa fa-search about-icon"></span>
+Research interests: young exoplanets &middot; transit photometry &middot; stellar clusters &middot; protoplanetary disks &middot; open-source astronomy tools
+</p>
+
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+Obtained my Ph.D. in Astronomy@UTokyo (supervised by
+<a href="https://www.s.u-tokyo.ac.jp/en/people/tamura_motohide/" target="_blank">Prof. Motohide Tamura</a>).
+</p>
+
+<p class="about-text">
+<span class="fa fa-code about-icon"></span>
+I enjoy writing open source tools for research and teaching, such as <a href="https://github.com/jpdeleon/quicklook">quicklook</a>.
+</p>
+
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+I like basketball, cooking, camping, and woodworking.
+</p>
+
+<p class="about-text">
+<span class="fa fa-globe about-icon"></span>
+View my <a href="https://github.com/jpdeleon/cv">CV on GitHub</a> or my <a href="https://scholar.google.com/citations?user=_Z8ialwAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+</p>
+
 </div>
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <!-- Post preview section -->
-  <article class="post-preview">
-    <a href="{{ post.url | relative_url }}">
-	  <!-- Post title -->
-	  <h2 class="post-title">{{ post.title }}</h2>
+<div id="contactme-section">
+<h1 id="contact">Contact</h1>
 
-	  {% if post.subtitle %}
-	  <!-- Post subtitle -->
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
+<p>You can <a href="mailto:jpdeleon.bsap@gmail.com">email me</a> or find me on <a href="https://github.com/jpdeleon">GitHub</a> or <a href="https://www.linkedin.com/in/jpdeleonbsap">LinkedIn</a> if you want to get in touch.</p>
+
+<form action="https://formspree.io/jpdeleon.bsap@gmail.com" method="POST" class="form" id="contact-form">
+  <p>You can also send me a quick message using the form below:</p>
+  <div class="row">
+    <div class="col-xs-6">
+      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
+    </div>
+    <div class="col-xs-6">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+    </div>
+  </div>
+  <input type="hidden" name="_subject" value="New submission from jpdeleon.github.io">
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="?message=Message sent" />
+
+  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+</form>
+
+</div>
+
+<br/>
+
+<div id="feed-me">
+  <br/>
+  <h1>Feeling generous? Donate here</h1>
+  <p align="center">
+    <a style="display: inline-block;" href="https://www.paypal.com/paypalme/jpdeleonbsap">
+      <img height="40" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" />
     </a>
-
-    <!-- Post meta information -->
-    <p class="post-meta">
-      Posted on {{ post.date | date: site.date_format }}
-    </p>
-
-    <!-- Post entry container -->
-    <div class="post-entry-container">
-      {% if post.image %}
-      <!-- Post image if available -->
-      <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}">
-        </a>
-      </div>
-      {% endif %}
-      <!-- Post entry content -->
-      <div class="post-entry">
-        <!-- Displaying post excerpt with Read More link if needed -->
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
-    </div>
-
-    {% if post.tags.size > 0 %}
-    <!-- Displaying post tags if available -->
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
+    <a style="display: inline-block; margin-left: 10px;" href="https://github.com/sponsors/jpdeleon">
+      <img height="40" src="https://i.imgur.com/034B8vq.png" />
+    </a>
+  </p>
 </div>
-
-<!-- Pagination section if there are multiple pages -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <!-- Link to newer posts if available -->
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <!-- Link to older posts if available -->
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
