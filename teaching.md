@@ -145,6 +145,7 @@ carbonads: false
       * [Review:  SETI, 2001](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.39.1.511)
       * [Review:  The study of living universe, 2005](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.43.051804.102202)
       * [Review:  Evolution of a habitable planet, 2003](https://www.annualreviews.org/doi/full/10.1146/annurev.astro.41.071601.170049)
+      * [Article: Search for Technosignatures](https://arxiv.org/pdf/2605.21093)
   * **Supernovae, Black Holes, Neutron Stars, White Dwarfs, Pulsars, Magnetars, AGNs, GRBs, FRBs, and Gravitational Waves**
     * [Review:  Most luminous supernovae](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081817-051819)
     * [Review:  Coevolution of galaxies and supermassive black holes](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081913-035722)
