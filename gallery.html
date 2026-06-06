@@ -1,0 +1,323 @@
+---
+layout: gallery
+title: Gallery
+subtitle: Space & Earth Science modules created for student learning at RegulusSpaceTech, Inc.
+comments: false
+show-avatar: false
+---
+
+<style>
+  /* ── Reset & outer shell ─────────────────────────── */
+  .gallery-outer {
+    background: #f8f9fa;
+    padding-bottom: 5rem;
+  }
+
+
+  /* ── Section header ──────────────────────────────── */
+  .gallery-section {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 3rem 2rem 0;
+  }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.8rem;
+  }
+  .section-badge {
+    background: #0d1b2a;
+    color: #4db8ff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 0.35rem 0.9rem;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+  .section-title {
+    font-family: 'Lora', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #1a1a2a;
+    margin: 0;
+  }
+  .section-rule {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(to right, #cbd5e0, transparent);
+  }
+  .section-count {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8rem;
+    color: #94a3b8;
+    white-space: nowrap;
+  }
+
+  /* ── Grid ────────────────────────────────────────── */
+  .module-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 14px;
+  }
+
+  /* ── Card ────────────────────────────────────────── */
+  .module-card {
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08), 0 2px 12px rgba(0,0,0,0.04);
+    cursor: pointer;
+    transition: box-shadow 0.22s ease, transform 0.22s ease;
+    aspect-ratio: 400 / 566;
+  }
+  .module-card:hover {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 8px 28px rgba(0,0,0,0.14), 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .module-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: filter 0.22s ease;
+  }
+  .module-card:hover img {
+    filter: brightness(0.72);
+  }
+  .module-card-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0.8rem 0.6rem;
+    background: linear-gradient(to top, rgba(13,27,42,0.85) 0%, rgba(13,27,42,0) 55%);
+    opacity: 0;
+    transition: opacity 0.22s ease;
+  }
+  .module-card:hover .module-card-overlay {
+    opacity: 1;
+  }
+  .module-id {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #4db8ff;
+  }
+  .module-num {
+    font-family: 'Lora', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.1;
+  }
+  .view-hint {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.65rem;
+    color: rgba(255,255,255,0.55);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 0.3rem;
+  }
+
+  /* ── Lightbox ────────────────────────────────────── */
+  #lb-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(10,14,24,0.93);
+    z-index: 9999;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+  }
+  #lb-overlay.active {
+    display: flex;
+  }
+  #lb-inner {
+    position: relative;
+    max-width: min(500px, 92vw);
+    text-align: center;
+  }
+  #lb-img {
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+  }
+  #lb-caption {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.55);
+    margin-top: 1rem;
+  }
+  #lb-close {
+    position: fixed;
+    top: 1.5rem;
+    right: 1.8rem;
+    background: none;
+    border: none;
+    color: rgba(255,255,255,0.6);
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0;
+    transition: color 0.15s;
+  }
+  #lb-close:hover { color: #fff; }
+  #lb-prev, #lb-next {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.15);
+    color: rgba(255,255,255,0.7);
+    font-size: 1.3rem;
+    width: 2.8rem;
+    height: 2.8rem;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s, color 0.15s;
+  }
+  #lb-prev { left: 1.2rem; }
+  #lb-next { right: 1.2rem; }
+  #lb-prev:hover, #lb-next:hover {
+    background: rgba(255,255,255,0.18);
+    color: #fff;
+  }
+
+  /* ── Responsive ──────────────────────────────────── */
+  @media (max-width: 640px) {
+    .module-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+    }
+    .gallery-stats { gap: 1.2rem; }
+    .section-title { font-size: 1.1rem; }
+    #lb-prev { left: 0.4rem; }
+    #lb-next { right: 0.4rem; }
+  }
+</style>
+
+
+<!-- SSP 13-14 Level 2 -->
+<section class="gallery-section" aria-labelledby="level2-heading">
+  <div class="section-header">
+    <span class="section-badge">SSP 13–14 · Level 2</span>
+    <h2 class="section-title" id="level2-heading">Student Level 2</h2>
+    <span class="section-rule"></span>
+    <span class="section-count">20 modules</span>
+  </div>
+  <div class="module-grid" id="grid-level2">
+    {% assign l2 = "M01,M02,M03,M04,M05,M06,M07,M08,M09,M10,M11,M12,M13,M14,M15,M16,M17,M18,M19,M20" | split: "," %}
+    {% for m in l2 %}
+    <div class="module-card" data-src="{{ '/img/gallery/sL02-' | append: m | append: '.jpg' | relative_url }}" data-caption="Level 2 · {{ m }}" tabindex="0" role="button" aria-label="View Level 2 Module {{ m }}">
+      <img src="{{ '/img/gallery/sL02-' | append: m | append: '.jpg' | relative_url }}" alt="Level 2 Module {{ m }}" loading="lazy" />
+      <div class="module-card-overlay">
+        <span class="module-id">Level 2</span>
+        <span class="module-num">{{ m }}</span>
+        <span class="view-hint">click to enlarge</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- SSP 14-15 Level 3 -->
+<section class="gallery-section" aria-labelledby="ssp15-level3-heading" style="margin-top: 3rem;">
+  <div class="section-header">
+    <span class="section-badge">SSP 14–15 · Level 3</span>
+    <h2 class="section-title" id="ssp15-level3-heading">Student Level 3</h2>
+    <span class="section-rule"></span>
+    <span class="section-count">20 modules</span>
+  </div>
+  <div class="module-grid" id="grid-ssp14-level3">
+    {% assign l3b = "M01,M02,M03,M04,M05,M06,M07,M08,M09,M10,M11,M12,M13,M14,M15,M16,M17,M18,M19,M20" | split: "," %}
+    {% for m in l3b %}
+    <div class="module-card" data-src="{{ '/img/gallery/ssp14-sL03-' | append: m | append: '.jpg' | relative_url }}" data-caption="SSP 14–15 · Level 3 · {{ m }}" tabindex="0" role="button" aria-label="View SSP 14-15 Level 3 Module {{ m }}">
+      <img src="{{ '/img/gallery/ssp14-sL03-' | append: m | append: '.jpg' | relative_url }}" alt="SSP 14-15 Level 3 Module {{ m }}" loading="lazy" />
+      <div class="module-card-overlay">
+        <span class="module-id">SSP 14–15 · L3</span>
+        <span class="module-num">{{ m }}</span>
+        <span class="view-hint">click to enlarge</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- Lightbox -->
+<div id="lb-overlay" role="dialog" aria-modal="true" aria-label="Module preview">
+  <button id="lb-close" aria-label="Close preview">&times;</button>
+  <button id="lb-prev" aria-label="Previous module">&#8249;</button>
+  <div id="lb-inner">
+    <img id="lb-img" src="" alt="" />
+    <div id="lb-caption"></div>
+  </div>
+  <button id="lb-next" aria-label="Next module">&#8250;</button>
+</div>
+
+<script>
+(function () {
+  var cards = Array.from(document.querySelectorAll('.module-card'));
+  var overlay = document.getElementById('lb-overlay');
+  var lbImg   = document.getElementById('lb-img');
+  var lbCap   = document.getElementById('lb-caption');
+  var current = 0;
+
+  function open(idx) {
+    current = idx;
+    var c = cards[idx];
+    lbImg.src = c.dataset.src;
+    lbImg.alt = c.dataset.caption;
+    lbCap.textContent = c.dataset.caption;
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+    document.getElementById('lb-close').focus();
+  }
+
+  function close() {
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+    cards[current].focus();
+  }
+
+  function navigate(dir) {
+    open((current + dir + cards.length) % cards.length);
+  }
+
+  cards.forEach(function (c, i) {
+    c.addEventListener('click', function () { open(i); });
+    c.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(i); }
+    });
+  });
+
+  document.getElementById('lb-close').addEventListener('click', close);
+  document.getElementById('lb-prev').addEventListener('click', function (e) { e.stopPropagation(); navigate(-1); });
+  document.getElementById('lb-next').addEventListener('click', function (e) { e.stopPropagation(); navigate(1); });
+
+  overlay.addEventListener('click', function (e) {
+    if (e.target === overlay || e.target === document.getElementById('lb-inner') || e.target === lbImg) close();
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (!overlay.classList.contains('active')) return;
+    if (e.key === 'Escape')      close();
+    if (e.key === 'ArrowLeft')   navigate(-1);
+    if (e.key === 'ArrowRight')  navigate(1);
+  });
+})();
+</script>

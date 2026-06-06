@@ -23,6 +23,7 @@ navbar-links:
   research: "research"
   publications: "publications"
   teaching : "teaching"
+  gallery: "gallery"
   guide: "guide"
   blog: "blog"
   search: "search"
@@ -206,6 +207,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - vendor
 
 # prose.io config
 prose:
